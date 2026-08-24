@@ -44,6 +44,10 @@ Aplicar conhecimentos de **Excel e Inteligência Artificial** na construção de
 - Desenvolvimento de dashboards
 - Apresentação visual de informações
 
+- ## 🚀 Dashboard
+
+[![Abrir Dashboard](https://img.shields.io/badge/🚀%20Abrir%20Dashboard-Porsche-red?style=for-the-badge)](./dashboard.html)
+
 
 ## 📁 Estrutura do projeto
 
