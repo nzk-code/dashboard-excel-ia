@@ -49,6 +49,6 @@ Aplicar conhecimentos de **Excel e Inteligência Artificial** na construção de
 
 ```text
 📦 projeto-dashboard-porsche
-├── 📊 dashboard.xlsx
-├── 🖼️ dashboard.png
+├── 📊 Planilha base Porsche (Sanitizada)
+├── 🖼️ dashboard
 └── 📄 README.md
