@@ -46,7 +46,7 @@ Aplicar conhecimentos de **Excel e Inteligência Artificial** na construção de
 
 - ## 🚀 Dashboard
 
-[![Abrir Dashboard](https://img.shields.io/badge/🚀%20Abrir%20Dashboard-Porsche-red?style=for-the-badge)](./dashboard.html)
+[![Abrir Dashboard](https://img.shields.io/badge/🚀%20Abrir%20Dashboard-Porsche-red?style=for-the-badge)](file:///C:/Users/cauan/Downloads/dio%20bootcamps/dio%20acelera%C3%A7ao%20excel%20e%20ia/primeiro%20projeto/dashboard.html)
 
 
 ## 📁 Estrutura do projeto
